@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandergi
-- 👀 I’m interested in ...Python, Django, JavaScript, Excel VBA, Learning and Development, Manufacturing, Chemical Engineering
+- 👀 I’m interested in ...Python, Django, JavaScript, Excel VBA, C, C++, Learning and Development, Manufacturing, Chemical Engineering
 - 🌱 I’m currently learning ... Master of Science in Information Technology
-- 💞️ I’m looking to collaborate on ...Software Development, Web Applications
+- 💞️ I’m looking to collaborate on ...Software Development, Web Applications, Stock Market
 - 📫 How to reach me ...
 
 <!---
